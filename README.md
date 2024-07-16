@@ -2,7 +2,7 @@
 ![Wallets Tab](imgs/wallets-tab-screenshot.png)
 YurtTraders is an advanced cryptocurrency trading bot that scrapes Telegram channels for real-time market intelligence and automated trading execution across multiple blockchain networks. However, I initally wrote it for myself just for BNB Chain use. Then my friends wanted to use it and I removed some hardcodded values and made it more user friendly. The thing is I have no time to main this project anymore and I think it contains many useful codes that many people can reuse. Feel free to add stuff.
 
-☢️THE CODE IS VERY MESSY, THIS WAS NOT INTENDED SOMETHING THAT COMPLICATED☢️
+☢️ THE CODE IS VERY MESSY, THIS WAS NOT INTENDED SOMETHING THAT COMPLICATED ☢️
 
 ## Table of Contents
 
